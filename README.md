@@ -1,4 +1,4 @@
-# SWAPI
+# API Swapi
 
 La app Swapi nos brinda una colección de imagenes de los personajes de la pelicula STAR WARS con singulares características de cada personaje por medio de una ventana emergente al darle clic a cada uno. Esta información de obtuvo de la api oficial de Star Wars: SWAPI API.
 
