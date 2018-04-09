@@ -34,7 +34,6 @@ window.addEventListener('load', function() {
               language.innerHTML = recursoSpecies.language;
               averageLifeSpan.innerHTML = recursoSpecies.average_lifespan;
             });
-        // addNews(JSON.parse(recurso));
         });
     };
   }
